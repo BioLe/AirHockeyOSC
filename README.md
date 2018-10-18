@@ -20,7 +20,22 @@ In the DataAnalysis folder, there's data captured from several games and a Jupyt
 
 Header:
 
-Time.time,PlayerName,accelerometerRawX,accelerometerRawY,playerPosX,playerPosY,playerVelocity,puckPosX,puckPosY,puckVelocity,scoreBlue,scoreRed
+Time.time
+PlayerName
+
+accelerometerRawX
+accelerometerRawY
+
+playerPosX
+playerPosY
+playerVelocity
+
+puckPosX
+puckPosY
+puckVelocity
+
+scoreBlue
+scoreRed
 
 ----------------------------------------------------------------------------------------------------
 
