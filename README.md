@@ -8,11 +8,14 @@ Based on Thomas Fredericks - UnityOSC.
 Code-object association:
 
 2 Emptys (OSC Receivers)            - OSC.cs, with a port for each player
+
 2 Images (Players)                  - oscTeste.cs
+
 2 Box Colliders (Goals)             - baliza.cs
+
 1 Image (Puck)                      - bola.cs
 
-There are the minimum requirements for the project to work. 
+This are the minimum requirements for the project to work. 
 
 ----------------------------------------------------------------------------------------------------
 
